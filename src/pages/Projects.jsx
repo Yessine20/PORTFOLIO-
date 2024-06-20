@@ -34,7 +34,7 @@ const Projects = () => {
               isBlog={false}
               title="Portfolio React"
               description="This project is a personal portfolio website designed and developed using React. The website features a modern and clean design, allowing me to showcase my skills, projects, and experience..Through this project, I have gained valuable experience in React and modern front-end development practices."
-              ghLink="https://github.com/19sajib/social-media"
+              ghLink="https://github.com/Yessine20/PORTFOLIO-"
             />
           </Col>
 
