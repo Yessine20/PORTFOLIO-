@@ -5,7 +5,7 @@ import {
   AiOutlineTwitter
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { SiLeetcode } from "react-icons/si";
+import { SiInstagram } from "react-icons/si";
 import './Social.css'
 
 const Social = () => {
@@ -22,7 +22,7 @@ const Social = () => {
                 <ul className="contact-social-links">
                   <li className="contact-icons">
                     <a
-                      href="https://github.com/19sajib"
+                      href="https://github.com/Yessine20"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
@@ -32,7 +32,7 @@ const Social = () => {
                   </li>
                   <li className="contact-icons">
                     <a
-                      href="https://twitter.com/19sajib"
+                      href="https://x.com/Yessine73T"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
@@ -42,7 +42,7 @@ const Social = () => {
                   </li>
                   <li className="contact-icons">
                     <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href=""
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
@@ -52,12 +52,12 @@ const Social = () => {
                   </li>
                   <li className="contact-icons">
                     <a
-                      href="hhttps://leetcode.com/19sajib/"
+                      href="https://www.instagram.com/yessinetoumy/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color contact-social-icons"
                     >
-                      <SiLeetcode />
+                      <SiInstagram  />
                     </a>
                   </li>
                 </ul>
